@@ -1,0 +1,78 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.pearl-instagram-pics {
+    display: table;
+    width: 102%;
+    table-layout: fixed;
+    margin-left: -2px;
+}
+
+.pearl-instagram-row {
+    display: table-row;
+}
+
+.pearl-instagram-item {
+    display: table-cell;
+    padding: 3px;
+}
+
+.pearl-instagram-item a {
+    display: block;
+    position: relative;
+}
+
+.pearl-instagram-item img {
+    max-width: 100%;
+    display: block;
+}
+
+.pearl-instagram-item img:hover,
+.pearl-instagram-item img:focus {
+    -webkit-filter: opacity(60%);
+    filter: opacity(60%);
+}
+
+.pearl-instagram-item:first-child {
+    /*padding-left: 0px;*/
+}
+
+.pearl-instagram-item:last-child {
+    /*padding-right: 0px;*/
+}
+
+.pearl-instagram-row:first-child .pearl-instagram-item {
+    padding-top: 0px;
+}
+
+.pearl-instagram-row:last-child .pearl-instagram-item {
+    padding-bottom: 0px;
+}
+
+.pearl-instagram-follow {
+    color: #fff;
+    border: none;
+    box-shadow: none;
+    margin-top: 14px;
+    display: block;
+    padding: 5px;
+    text-align: center;
+    border-radius: 3px;
+    background-color: #3f729b;
+}
+
+.pearl-instagram-follow:hover,
+.pearl-instagram-follow:focus {
+    color: #fff !important;
+    background: #305777;
+    border: none;
+    box-shadow: none;
+    outline: none;
+}
+
+.pearl-instagram-follow i {
+    display: none;
+    margin-right: 10px;
+}

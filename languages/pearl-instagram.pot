@@ -1,0 +1,112 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: pearl-instagram\n"
+"POT-Creation-Date: 2017-03-29 11:50+0500\n"
+"PO-Revision-Date: 2017-03-29 11:49+0500\n"
+"Last-Translator: \n"
+"Language-Team: PearlThemes <hello@pearlthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-pearl-instagram-widget.php:14
+msgid "Display recent Instagram photos."
+msgstr ""
+
+#: admin/class-pearl-instagram-widget.php:16
+msgid "Instagram by PearlThemes"
+msgstr ""
+
+#: admin/class-pearl-instagram-widget.php:110
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: admin/class-pearl-instagram-widget.php:113
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: admin/class-pearl-instagram-widget.php:120
+#: admin/class-pearl-instagram-widget.php:125
+#: admin/class-pearl-instagram-widget.php:129
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: admin/class-pearl-instagram-widget.php:147
+msgid "Instagram Image"
+msgstr ""
+
+#: admin/class-pearl-instagram-widget.php:181
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: admin/class-pearl-instagram-widget.php:189
+msgid "Instagram"
+msgstr ""
+
+#: admin/class-pearl-instagram-widget.php:192
+msgid "Follow Me!"
+msgstr ""
+
+#: admin/class-pearl-instagram-widget.php:210
+msgid "Title"
+msgstr ""
+
+#: admin/class-pearl-instagram-widget.php:211
+msgid "Username"
+msgstr ""
+
+#: admin/class-pearl-instagram-widget.php:212
+msgid "Number of photos (maximum 12)"
+msgstr ""
+
+#: admin/class-pearl-instagram-widget.php:213
+msgid "Number of columns"
+msgstr ""
+
+#: admin/class-pearl-instagram-widget.php:214
+msgid "Photo size"
+msgstr ""
+
+#: admin/class-pearl-instagram-widget.php:216
+msgid "Thumbnail"
+msgstr ""
+
+#: admin/class-pearl-instagram-widget.php:217
+msgid "Small"
+msgstr ""
+
+#: admin/class-pearl-instagram-widget.php:218
+msgid "Large"
+msgstr ""
+
+#: admin/class-pearl-instagram-widget.php:219
+msgid "Original"
+msgstr ""
+
+#: admin/class-pearl-instagram-widget.php:222
+msgid "Open links in"
+msgstr ""
+
+#: admin/class-pearl-instagram-widget.php:224
+msgid "Lightbox"
+msgstr ""
+
+#: admin/class-pearl-instagram-widget.php:225
+msgid "Current window (_self)"
+msgstr ""
+
+#: admin/class-pearl-instagram-widget.php:226
+msgid "New window (_blank)"
+msgstr ""
+
+#: admin/class-pearl-instagram-widget.php:229
+msgid "Follow Link Text"
+msgstr ""
